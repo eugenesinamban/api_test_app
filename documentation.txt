@@ -1,0 +1,19 @@
+Test App
+
+Screens
+1. Form Screen
+2. Result Screen
+
+Routes to take care of screen movement
+
+Form Screen
+	- Input Form
+		- Validation
+		- Error handling
+	- Submit Button
+		- Validation
+		- Error handling
+		- Send to Result Screen
+
+Result Screen
+	- Result field
